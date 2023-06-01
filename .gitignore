@@ -1,0 +1,8 @@
+venv/
+output/
+__pycache__
+.idea/
+data/
+data_video/
+output_video/
+:
